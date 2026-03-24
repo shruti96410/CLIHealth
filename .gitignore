@@ -1,0 +1,4 @@
+echo "venv/
+*.log
+__pycache__/
+*.pyc" > .gitignore
